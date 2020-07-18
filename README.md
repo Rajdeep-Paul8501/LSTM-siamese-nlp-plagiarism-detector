@@ -28,3 +28,4 @@ Define a binary classification model and a training script.
 Evaluate your deployed classifier.
 
 ## The Model
+![rch_imag](images/.png)
