@@ -21,7 +21,7 @@ Define features for comparing the similarity of an answer text and a source text
 Select "good" features, by analyzing the correlations between different features.
 
 
-### Notebook 3: Train and Deploy Your Model in kera
+### Notebook 3: Train and Deploy Your Model in keras
 
 Upload your train/test feature data to S3.
 Define a binary classification model and a training script.
