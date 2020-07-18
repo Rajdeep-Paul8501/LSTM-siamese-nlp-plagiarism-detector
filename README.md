@@ -37,8 +37,6 @@ It is a keras based implementation of deep siamese Bodirectional LSTM network to
 
 Below is the architecture description for the same.
 
-![rch_imag](images/arch_image.png)
-
 
 
 ### Usage
