@@ -36,6 +36,7 @@ and weights. Parameter updating is mirrored across both subnetworks.
 It is a keras based implementation of deep siamese Bodirectional LSTM network to capture phrase/sentence similarity using word embeddings.
 
 Below is the architecture description for the same.
+![arch_image](https://user-images.githubusercontent.com/68452736/87849340-79944100-c905-11ea-8886-9c3531f0dc64.png)
 
 
 
